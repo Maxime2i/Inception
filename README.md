@@ -73,7 +73,7 @@ Docker-compose outil qui facilite le déploiement et la gestion de plusieurs con
 
   
 
-  ## Les 3 conteneurs a cree
+  ## Les 3 conteneurs à cree
 
   **nginx** : serveur web open source très populaire, ainsi qu'un serveur proxy inverse. Il est conçu pour gérer la distribution de requêtes web, le chargement équilibré de serveurs backend, et le serveur de fichiers statiques
   
@@ -84,7 +84,7 @@ Docker-compose outil qui facilite le déploiement et la gestion de plusieurs con
   **mariaDB** : système de gestion de base de données relationnelle open source qui est une bifurcation (fork) de MySQL. Il est conçu pour être une alternative compatible avec MySQL tout en offrant des améliorations et des fonctionnalités supplémentaires
 
 
- ## Quelques infos a savoir 
+ ## Quelques infos à savoir 
 
 - **pertinnence de la structure des dossiers** : favorise l'isolation, la reproductibilité, la maintenance, la sécurité, la gestion des volumes, la clarté, et la compatibilité avec les outils. Cela facilite donc le developpement et le deploiement des conteneurs
 
