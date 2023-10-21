@@ -2,7 +2,7 @@
 
 Ce projet de l'école 42 vise à élargir vos connaissances en administration système en utilisant Docker. En utilisant plusieurs images Docker, en les créant dans votre machine virtuelle.
 
-## Definition
+## Definitions
 
 ##### Fonctionnement de Docker : 
 Docker est une application qui permet d'emballer une application et ses dependances dans un conteneur :
